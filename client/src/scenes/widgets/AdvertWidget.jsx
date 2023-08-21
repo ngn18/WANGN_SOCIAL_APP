@@ -24,11 +24,12 @@ const AdvertWidget = () => {
         style={{ borderRadius: "0.75rem", margin: "0.75rem 0" }}
       />
       <FlexBetween>
-        <Typography color={main}>NGN Poultry Limited</Typography>
-        <Typography color={medium}>ngnpoultry.com</Typography>
+        <Typography color={main}>MikaCosmetics</Typography>
+        <Typography color={medium}>mikacosmetics.com</Typography>
       </FlexBetween>
       <Typography color={medium} m="0.5rem 0">
-        We are the best Poultry products dealers. Get yourself the best poultry products at an affordable price.
+        Your pathway to stunning and immaculate beauty and made sure your skin
+        is exfoliating skin and shining like light.
       </Typography>
     </WidgetWrapper>
   );
